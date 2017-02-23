@@ -4,6 +4,9 @@ function registerDeclaration() {
       conditions: [
         new chrome.declarativeContent.PageStateMatcher({
           css: ['[data-reactid]']
+        }),
+        new chrome.declarativeContent.PageStateMatcher({
+          css: ['[data-reactroot]']
         })
       ],
       actions: [new chrome.declarativeContent.ShowPageAction() ]
