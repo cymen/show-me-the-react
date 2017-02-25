@@ -4,7 +4,7 @@
   "name": "Show me the React!",
   "short_name": "See React!",
   "description": "Highlight React components on the page.",
-  "version": "1.0",
+  "version": "1.1",
 
   "icons": {
     "600": "images/react.png",
