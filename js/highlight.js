@@ -1,5 +1,5 @@
 var MAGIC_ID = '__react_highlighter_plugin_stylesheet__';
-var style = document.getElementById('__react_highlighter_plugin_stylesheet__');
+var style = document.getElementById(MAGIC_ID);
 
 if (style) {
   document.head.removeChild(document.getElementById(MAGIC_ID));
