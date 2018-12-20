@@ -1,3 +1,5 @@
+Note that the technique this extension used no longer works. You can get a very similar effect by installing the React developer tools and enabling "Highlight Updates" in the preferences. It is unlikely that the effort will be put into trying to make this extension work again however PRs are welcomed.
+
 # Show me the React!
 
 Available as:
